@@ -1,0 +1,23 @@
+{
+  "name": "test-gk-lock-appveyor",
+  "version": "1.0.0",
+  "description": "Personally test greenkeeper lockfile",
+  "main": "index.js",
+  "dependencies": {
+    "patkub-test-greenkeeper-lockfile-package": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patkub/test-gk-lock-appveyor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patkub/test-gk-lock-appveyor/issues"
+  },
+  "homepage": "https://github.com/patkub/test-gk-lock-appveyor#readme"
+}
